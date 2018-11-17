@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec40960e-879b-4238-9549-0207e918547a" name="Default" comment="Remove Drunkard class&#10;Refactor DrunkardList class">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/drunkard/Drunkard.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/drunkard/DrunkardList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/drunkard/DrunkardList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/drunkard/Drunkard$Suit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/drunkard/Drunkard$Value.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/drunkard/Drunkard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/drunkard/DrunkardList$Suit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/drunkard/DrunkardList$Value.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/drunkard/DrunkardList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/drunkard/DrunkardTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/drunkard/DrunkardTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,14 +24,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="260" />
+          <entry key="java" value="264" />
           <entry key="txt" value="97" />
           <entry key="xml" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="260" />
+          <entry key="JAVA" value="264" />
           <entry key="PLAIN_TEXT" value="97" />
           <entry key="XML" value="13" />
         </counts>
@@ -65,8 +57,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/drunkard/DrunkardList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="119" column="11" selection-start-line="119" selection-start-column="11" selection-end-line="119" selection-end-column="11" />
+            <state relative-caret-position="255">
+              <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
               <folding>
                 <element signature="e#169#178#0" expanded="true" />
                 <element signature="e#250#259#0" expanded="true" />
@@ -184,7 +176,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542435931117" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542436200454" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
@@ -291,6 +283,14 @@
       <option name="presentableId" value="Default" />
       <updated>1542383848960</updated>
     </task>
+    <task id="LOCAL-00001" summary="Remove Drunkard class&#10;Refactor DrunkardList class">
+      <created>1542435939715</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542435939715</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -314,7 +314,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.30592993" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32884097" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32884097" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -431,8 +431,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/drunkard/DrunkardList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="119" column="11" selection-start-line="119" selection-start-column="11" selection-end-line="119" selection-end-column="11" />
+        <state relative-caret-position="255">
+          <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
           <folding>
             <element signature="e#169#178#0" expanded="true" />
             <element signature="e#250#259#0" expanded="true" />

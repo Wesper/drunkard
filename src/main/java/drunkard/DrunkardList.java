@@ -13,8 +13,8 @@ public class DrunkardList {
     private static ArrayList<Integer> cardsIdPlayer2 = new ArrayList<Integer>();
     private static Integer cardIdPlayer1;
     private static Integer cardIdPlayer2;
-    private static int firstPlayerScore = 18;
-    private static int secondPlayerScore = 18;
+    private static int firstPlayerScore = HALF_COUNT_CARDS;
+    private static int secondPlayerScore = HALF_COUNT_CARDS;
     private static int round = 0;
 
     private enum Suit {
